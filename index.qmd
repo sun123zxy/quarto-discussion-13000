@@ -11,3 +11,5 @@ This is a Quarto website.
 This is a [link](about.qmd) to the about QMD.
 
 This is a [link](about.html) to the about HTML.
+
+![This is an image](image.png)
