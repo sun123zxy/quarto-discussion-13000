@@ -1,16 +1,16 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Index",
-    "section": "",
-    "text": "This is a Quarto website.\nThis is a link to the about QMD.\nThis is a link to the about HTML."
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "web-test",
     "section": "",
     "text": "This is the about page."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Index",
+    "section": "",
+    "text": "This is a Quarto website.\nThis is a link to the about QMD.\nThis is a link to the about HTML."
   }
 ]
